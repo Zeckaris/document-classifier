@@ -1,0 +1,14 @@
+I used the Tobacco‑3482 dataset
+
+Image count per class:
+ADVE: 230
+Email: 599
+Form: 431
+Letter: 567
+News: 188
+Note: 201
+Resume: 120
+Report: 265
+Scientific: 261
+Memo: 620
+Total images in dataset: 3482
